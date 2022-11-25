@@ -16,3 +16,6 @@ char* StrCpy(char* stc)
 	m[len] = '\0';
 	return m;
 }
+/**
+本地编辑
+**/
